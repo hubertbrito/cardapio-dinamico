@@ -1,0 +1,106 @@
+.secao-cards div h2 {
+    color: goldenrod;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .container-cards {
+    background-color: #f3f3f3;
+    border-radius: 4px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+  }
+
+  header {
+    position: relative;
+    text-align: center;
+  }
+
+  header img {
+    max-width: 1024px;
+    margin-top: 2px;
+  }
+
+  header div {
+    width: 560px;
+    position: absolute;
+    bottom: 200px;
+    left: 260px;
+    z-index: 1;
+    color: chartreuse;
+
+  }
+
+.titulo h1 {
+  font-size: 38px;
+  line-height: 36px;
+}
+
+.titulo p {
+  font-size: 26px;
+  line-height: 24px;
+}
+
+
+  
+  @media (max-width: 1024px) {
+  
+    }
+    .banner div p {
+      font-size: 28px;
+    }
+  
+  @media (max-width: 768px) {
+    .container-principal{
+      max-width: 100%;
+    }
+    .secao-cards{
+      width: 100%;
+      padding: 3px;
+    }
+    .container-cards{
+      width: 100%;
+    }
+    header div {
+      width: 360px;
+      position: absolute;
+      bottom: 200px;
+      left: 21px;
+      z-index: 1;
+      color: chartreuse;
+  
+    }
+    .banner{
+      height: 20%;
+      background-size: auto;
+      text-align: center;
+    }
+    .banner div {
+      max-width: 100%;
+      text-align: center;
+    }
+  
+    .banner div h1 {
+      font-size: 36px;
+      text-align: center;
+    }
+  
+    .banner div p {
+      font-size: 26px;
+    }
+  }
+  
+  @media (max-width: 550px) {
+  
+    .banner div h1 {
+      font-size: 26px;
+    }
+  
+    .banner div p {
+      font-size: 18px;
+    }
+  }
