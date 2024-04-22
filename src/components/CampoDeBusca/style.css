@@ -3,9 +3,10 @@
     max-width: 1024px;
     padding: 5px;
     display: flex;
-    gap: 5px;
+    gap: 15px;
     border: 2px solid #f3f3f3;
     border-radius: 20px;
+    margin: 6px 0px 0px 30px;
   }
   
   .barra-de-pesquisa:hover {
@@ -34,6 +35,9 @@
   }
   
   @media (max-width: 425px) {
+    .barra-de-pesquisa{
+      max-width: 84vw;
+    }
     .barra-de-pesquisa input::placeholder {
       font-size: 12px;
     }

@@ -41,3 +41,11 @@
   .acenderBtn {
     background-color: goldenrod;
   }
+
+  @media (max-width: 790px){
+    .secao-categorias {
+      width: 100%;
+      max-width: 99vw;
+      padding: 3px;
+    }
+  }
