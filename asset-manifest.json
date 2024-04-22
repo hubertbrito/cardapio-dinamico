@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cardapio-dinamico/static/css/main.dd91a433.css",
+    "main.css": "/cardapio-dinamico/static/css/main.53cfcb98.css",
     "main.js": "/cardapio-dinamico/static/js/main.a253c13a.js",
     "static/media/mil-folhas.jpg": "/cardapio-dinamico/static/media/mil-folhas.7432211a0b7dfa608866.jpg",
     "static/media/file-mignon.jpg": "/cardapio-dinamico/static/media/file-mignon.7d06de8c3e6d2723728a.jpg",
@@ -36,11 +36,11 @@
     "static/media/carne.png": "/cardapio-dinamico/static/media/carne.e6196fe762cca1f2183d.png",
     "static/media/salada.png": "/cardapio-dinamico/static/media/salada.143ff9cee8e0ea0969e3.png",
     "index.html": "/cardapio-dinamico/index.html",
-    "main.dd91a433.css.map": "/cardapio-dinamico/static/css/main.dd91a433.css.map",
+    "main.53cfcb98.css.map": "/cardapio-dinamico/static/css/main.53cfcb98.css.map",
     "main.a253c13a.js.map": "/cardapio-dinamico/static/js/main.a253c13a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd91a433.css",
+    "static/css/main.53cfcb98.css",
     "static/js/main.a253c13a.js"
   ]
 }
