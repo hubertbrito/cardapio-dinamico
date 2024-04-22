@@ -42,7 +42,7 @@
     background-color: goldenrod;
   }
 
-  @media (max-width: 790px){
+  @media (max-width: 768px){
     .secao-categorias {
       width: 100%;
       max-width: 99vw;

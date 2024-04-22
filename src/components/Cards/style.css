@@ -43,7 +43,7 @@
     font-weight: 600;
   }
 
-  @media (max-width: 790px){
+  @media (max-width: 768px){
     .card {
      width: 100%;
     }
